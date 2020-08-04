@@ -1,16 +1,16 @@
-### Hi there 👋
+<img width="auto" src="">
 
-<!--
-**elileal/elileal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Eliabe Leal
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tudo bem? 👋
+Amo aplicar meus conhecimentos em programação para resolver problemas.
+Hoje sou um FullStack Developer :computer:
+
+ :oncoming_police_car:  &nbsp; Estou trabalhando na **@sesdsgovpb**
+ <br/> :construction: &nbsp; Buscando colaborar com projetos web usando Javascript
+ <br/> 😉 &nbsp; Posso ajudar você com NodeJs
+ <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native
+ <br/> 💬  &nbsp; Sobre mim: Gosto de desenvolvimento, guitarra, música, filmes épicos e series.
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-EliabeLeal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eliabeleal/)](https://www.linkedin.com/in/eliabeleal/) 
+
