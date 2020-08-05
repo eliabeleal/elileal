@@ -12,5 +12,7 @@ Hoje sou um FullStack Developer :computer:
  <br/> 😉 &nbsp; Posso ajudar você com NodeJs
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native
  <br/> 💬  &nbsp; Sobre mim: Gosto de desenvolvimento, guitarra, música, filmes épicos e series.
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-EliabeLeal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eliabeleal/)](https://www.linkedin.com/in/eliabeleal/) 
+ <br/> :email: &nbsp; Entre em contato comigo: 
+ 
+ [![Linkedin Badge](https://img.shields.io/badge/-EliabeLeal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eliabeleal/)](https://www.linkedin.com/in/eliabeleal/) 
 
